@@ -1,0 +1,4 @@
+interface:
+  display_name: "E-commerce fashion image generation"
+  short_description: "ComfyUI fashion prompts and garment reference checks"
+  default_prompt: "Use $e-commerce-fashion-image-generation to check my garment and model references and prepare a faithful ComfyUI fashion image prompt."
